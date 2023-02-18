@@ -1,0 +1,1 @@
+# Topics-in-Financial-and-Economic-Data-Science: Can the forecasting accuracy of SVM/ANN/RF be improved by reducing the model dimension by means of PCA? Here there are three topics by combining each of the three approaches with PCA.
